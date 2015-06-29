@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Infiniti
+        psr4_prefix: Infiniti
+        src_path: app
